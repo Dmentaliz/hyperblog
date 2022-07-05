@@ -1,7 +1,9 @@
-Este es simplemente un archivo de texto plano para realizar validaciones
+Titulo del documento
 
-simplemente es un archivo de prueba que permite validar si al realizan cambios 
+Este es simplemente un archivo de texto plano para realizar validaciones,
+
+simplemente es un archivo de prueba que permite validar si al realizar cambios 
 
 estos se ven reflejados y como se ven reflejados.
 
-Y como se ve una nueva linea agregada.
+Final del documento.
