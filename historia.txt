@@ -1,5 +1,7 @@
 Este es simplemente un archivo de texto plano para realizar validaciones
 
-simplemente es un archivo de prueba que permite valodar si al realizar cambios 
+simplemente es un archivo de prueba que permite validar si al realizan cambios 
 
-Estos se ven reflejados y como se ven reflejados.-
+estos se ven reflejados y como se ven reflejados.
+
+Y como se ve una nueva linea agregada.
