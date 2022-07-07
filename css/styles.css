@@ -6,3 +6,10 @@
     width:70%;
     margin:10px auto;
 }
+
+#cabecera{
+    text-align: center;
+    color: darkred;
+    border-radius: 10%;
+    border: 1px solid black;
+}
